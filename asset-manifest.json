@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba36ffbc.css",
+    "main.js": "/static/js/main.a8374c42.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/slider3.jpg": "/static/media/slider3.9efaafcb6074d1462b8f.jpg",
+    "static/media/about-pic.jpg": "/static/media/about-pic.4a6cc30e005f7b196774.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.d1ae54a3cbeaf0350242.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.907b57f8567d1eb1daac.jpg",
+    "static/media/online-learning.jpg": "/static/media/online-learning.87b082af4585b659b96a.jpg",
+    "static/media/banner-img3.jpg": "/static/media/banner-img3.fdb9548a7980da7b90bf.jpg",
+    "static/media/service3.jpg": "/static/media/service3.52ee464a9871cd8fef81.jpg",
+    "static/media/service1.jpg": "/static/media/service1.4919188ecb547201516c.jpg",
+    "static/media/sidepage_title.jpg": "/static/media/sidepage_title.9ddec0bf0a3728b4ce84.jpg",
+    "static/media/service4.jpg": "/static/media/service4.7cf2db9435655df27d48.jpg",
+    "static/media/guru-logo.png": "/static/media/guru-logo.950d9027b4c2c994e850.png",
+    "static/media/service2.jpg": "/static/media/service2.167673aea6524f2bbc33.jpg",
+    "static/media/question-mark.jpg": "/static/media/question-mark.9ecca3b87cc161483b35.jpg",
+    "static/media/guru-logo2.png": "/static/media/guru-logo2.fe3c1413b4e5976a05a9.png",
+    "index.html": "/index.html",
+    "main.ba36ffbc.css.map": "/static/css/main.ba36ffbc.css.map",
+    "main.a8374c42.js.map": "/static/js/main.a8374c42.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba36ffbc.css",
+    "static/js/main.a8374c42.js"
+  ]
+}
