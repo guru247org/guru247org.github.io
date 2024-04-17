@@ -1,0 +1,62 @@
+.sticky-navbar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+  background-color: whitesmoke;
+}
+.gap{
+  height: 74px;
+  /* position: absolute;
+  top: 0px */
+}
+
+@media (max-width: 650px) {
+  .gap{
+  height: 40px;
+}
+}
+
+.App{
+  font-family: 'poppins', sans-serif;
+  line-height: 1.5;
+  font-size: 17px;
+}
+
+.App p{
+  line-height: 1.7;
+  color: #727695;
+  font-family: open sans, sans-serif;
+  font-size: 17px;
+}
+
+.App h2{
+  margin-bottom: 15px;
+  line-height: 1.3;
+  font-size: 37px;
+  font-weight: 700;
+}
+
+.App h3{
+  color: #1890cc;
+  line-height: 1;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+ul{
+  list-style: none;
+}
+li{
+  color: #252525;
+  display: list-item;
+  position: relative;
+  /* font-size: 16px; */
+}
+
+/* @media (max-width: 450px) {
+  .sticky-navbar{
+    width: 100%;
+  }
+} */
+
